@@ -6,8 +6,8 @@ Given the below scoring create a Scrabble word calculator that will provide the 
 ```
 
 ```
-Letter                             Value
-A, E, I, O, U, L, N, R, S, T        1
+Letter                            Value
+A, E, I, O, U, L, N, R, S, T       1
 D, G                               2
 B, C, M, P                         3
 F, H, V, W, Y                      4

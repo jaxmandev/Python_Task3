@@ -2,7 +2,8 @@
 
 ## Instructions
 ```
-Given the below scoring create a Scrabble word calculator that will provide the correct scores dependent on the string provided.
+- Given the below scoring create a Scrabble word calculator. 
+- It will provide the correct scores dependent on the string provided.
 ```
 
 ```

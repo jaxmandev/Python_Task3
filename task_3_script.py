@@ -47,5 +47,6 @@ def main(self):
     # peint the score value of the word
     print(f'Nice work!\n You scored {count.calculator()} points.')
 
+# verify the file is in the main
 if __name__ == "__main__":
     main()
